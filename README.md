@@ -1,3 +1,10 @@
+#Start Project
+1. git clone
+2. yarn
+3. add .env.local
+4. edit google api key
+5. yarn start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
