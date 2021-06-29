@@ -5,6 +5,8 @@
 4. edit google api key
 5. `yarn start`
 
+if error ---> This page can't load Google Maps correctly. ----> you can delete process.env.GOOGLE_MAPS_API_KEY and write the google key in app.js 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
