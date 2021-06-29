@@ -1,9 +1,9 @@
 # Start Project
 1. git clone
-2. yarn
+2. `yarn`
 3. add .env.local
 4. edit google api key
-5. yarn start
+5. `yarn start`
 
 # Getting Started with Create React App
 
