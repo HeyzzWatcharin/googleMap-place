@@ -51,7 +51,7 @@ function MyComponent() {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyCZ1BCe4Q7YL1nCa_ovtet4Bjn52tT20T8",
+    googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY,
     libraries: ["places"],
   });
 
